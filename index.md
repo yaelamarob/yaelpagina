@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+compromiso [edition](https://www.google.com/search?rlz=1C1EJFA_enMX727MX728&sxsrf=AOaemvKJr28_ffMzk-xfUix6Fix1TkFk0Q:1642795762766&q=the+blockchain+handbook&spell=1&sa=X&ved=2ahUKEwjj4IKP08P1AhUDJEQIHZ-hB4YQBSgAegQIARA3&biw=1360&bih=568&dpr=1)
 
 ### Jekyll Themes
 
